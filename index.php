@@ -5,6 +5,7 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="./main.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Allerta+Stencil">
+<script src="https://kit.fontawesome.com/f65693da15.js"></script>
 <head>
 <style>
 p {
@@ -93,7 +94,7 @@ p {
 
 <div  id='certifications'>
 <div>
-    <button  type="button" class="dis  button button1 display-3">Certifications</button>
+    <a href="certifications.php"><button  type="button" class="dis  button button1 display-3">Certifications</button></a>
 </div>
 </div>
 
@@ -116,7 +117,7 @@ p {
         <div class="card-up info-color"></div>
         <!--Avatar-->
         <div class="avatar mx-auto white">
-          <img src="binaryclassification.jpeg" class="rounded-circle img-fluid">
+          <img src="binaryclassification.png" class="rounded-circle img-fluid">
         </div>
         <div class="card-body">
           <!--Name-->
@@ -139,7 +140,7 @@ p {
         </div>
         <!--Avatar-->
         <div class="avatar mx-auto white">
-          <img src="cartpole.jpeg" class="rounded-circle img-fluid">
+          <img src="cartpole.png" class="rounded-circle img-fluid">
         </div>
         <div class="card-body">
           <!--Name-->
@@ -161,7 +162,7 @@ p {
         <div class="card-up indigo"></div>
         <!--Avatar-->
         <div class="avatar mx-auto white">
-          <img src="mountain.png" class="rounded-circle img-fluid">
+          <img src="mountainCart.png" class="rounded-circle img-fluid">
         </div>
         <div class="card-body">
           <!--Name-->
@@ -174,40 +175,6 @@ p {
       <!--Card-->
     </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div id = 'feedback'>
@@ -285,9 +252,9 @@ p {
 
 </div>
 
-<div class = "dis" > 
-  <img src="edx.jpg" class="rounded" alt="Cinque Terre">
-
+<div>
+<a href="https://github.com/07nikk"><i class="fab fa-github"></i></a>
+<a href="https://linkedin.com/in/07nikk"><i class="fab fa-linkedin"></i></a>
 </div>
 
 

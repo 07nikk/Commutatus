@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="./main.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Allerta+Stencil">
+<style>
+    .card-img-top{
+        height:250px;
+        width:250px;
+    }
+    .card{
+        text-align:center;
+        max-width:350px;
+        width:auto;
+        height:auto;
+    }    
+    .wrapper{
+        text-align:center;
+    }
+    .margin-right{
+        margin-right:13%;
+    }
+    .margin-left{
+        margin-left:13%;
+    }
+</style>
+</head>
+<body background = "mini-dark.png">
+    <h1 class = "light w3 text-center mt-5">Certificates</h1>
+    <main>
+       <div class="certificates container">
+           <div class="row mt-5">
+            <div class="card margin-right" style="width:400px">
+                <div class="wrapper">
+                    <img class="card-img-top" src="coursera.jpeg" alt="Card image">
+                </div>
+                <div class="card-body">
+                    <h4 class="card-title">Neural Network and deep learning</h4>
+                    <p class="card-text"></p>
+                    <a href="https://www.coursera.org/account/accomplishments/certificate/6DS68PA659ZT" class="btn btn-primary">See certificate</a>
+                </div>
+            </div>
+            <div class="card margin-left" style="width:400px">
+                <div class="wrapper">
+                    <img class="card-img-top" src="coursera.jpeg" alt="Card image">
+                </div>
+                <div class="card-body">
+                    <h4 class="card-title">Hyperperemeter tuning and optimization</h4>
+                    <p class="card-text"></p>
+                    <a href="https://www.coursera.org/account/accomplishments/certificate/P22MSM4E2JW2" class="btn btn-primary">See Certificate</a>
+                </div>
+            </div>
+            </div>
+            <div class="row">
+            <div class="card margin-right mt-5" style="width:400px">
+                <div class="wrapper">
+                    <img class="card-img-top" src="coursera.jpeg" alt="Card image">
+                </div>
+                <div class="card-body">
+                    <h4 class="card-title">Stucturing machine learning projects</h4>
+                    <p class="card-text"></p>
+                    <a href="https://www.coursera.org/account/accomplishments/certificate/HRPPUE6D4WZZ" class="btn btn-primary">See Certificate</a>
+                </div>
+            </div>
+            <div class="card margin-left mt-5" style="width:400px">
+                <div class="wrapper">
+                    <img class="card-img-top" src="edx.jpeg" alt="Card image">
+                </div>
+                <div class="card-body">
+                    <h4 class="card-title">Intermidiate C++</h4>
+                    <p class="card-text"></p>
+                    <a href="https://courses.edx.org/certificates/ab982f82e3a840febd63c85ba729fa09" class="btn btn-primary">See Certificate</a>
+                </div>
+            </div>
+            </div>
+       </div> 
+    </main>
+</body>
+<br><br><br>
+</html>

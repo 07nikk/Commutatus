@@ -106,3 +106,20 @@
 .shape{
     max-height: 30% !important;
 }
+.newwhite
+{
+    color :black;
+    font-size: 50%;
+    margin-left: 50%;
+}
+.shape1{
+    max-width: 30% !important;
+}
+.fab{
+    font-size: 80px;
+    color: aliceblue;
+    padding: 2%;
+}
+.fab:hover{
+    color:rgba(11, 240, 87,0.8)
+}
